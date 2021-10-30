@@ -17,7 +17,7 @@ The screenshots below show the application GUI in action.
 ![][Screeshot 1]
 ![][Screeshot 2]
 
-# About
+# About...
 
 This is a project made by [Boni Garcia], Visiting Professor at [Universidad Carlos III de Madrid], Spain. Copyright &copy; 2017-2021.
 
